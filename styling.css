@@ -1,0 +1,30 @@
+.wrap {
+  margin: 0 15%;
+  background: #722F2F;
+  height: 700px;
+}
+
+.leftBar {
+  background: #3B69B6;
+  height: 90%;
+}
+
+.rightBar {
+  background: #80A8EB;
+  height: 90%;
+}
+
+.chatScreen {
+  background: #BE56D8;
+  height: 90%;
+}
+
+.sendText {
+  background: #4D7D48;
+  height: 10%;
+}
+
+.sendBtn {
+  background: #757E56;
+  height: 10%;
+}
