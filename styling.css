@@ -1,7 +1,11 @@
 .wrap {
-  margin: 0 15%;
   background: #722F2F;
   height: 700px;
+  
+}
+
+.col-md-offset-2 {
+  padding: 0 0 0 0 !important;
 }
 
 .leftBar {
@@ -28,3 +32,9 @@
   background: #757E56;
   height: 10%;
 }
+
+.chatter {
+  position: absolute;
+  bottom: 0;
+}
+
